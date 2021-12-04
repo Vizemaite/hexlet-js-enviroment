@@ -1,1 +1,1 @@
-First gitRepo project. Only test for me.
+Hexlet. Js Enviroment. First Project
