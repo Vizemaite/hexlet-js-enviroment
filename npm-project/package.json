@@ -1,0 +1,16 @@
+{
+  "name": "npm-project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "тестовый проект с использованием npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
